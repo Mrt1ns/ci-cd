@@ -5,4 +5,4 @@ app = Flask(__name__)
 @app.route("/")
 
 def pagina_inicial():
-    return "Hello World"
+    return "Arrumando o Continuous Integration and Continuous Delivery"
